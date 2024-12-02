@@ -16,7 +16,7 @@ jobs:
         working-directory: e2e
     steps:
       - uses: actions/checkout@v3
-      - uses: cypress-io/github-action@v5.8.1
+      - uses: cypress-io/github-action@v5.8.4
         with:
           config-file: cypress.dev.config.ts
           record: true
