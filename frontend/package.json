@@ -22,7 +22,7 @@
     "@mui/styles": "5.13.2",
     "axios": "1.4.0",
     "copy-to-clipboard": "3.3.3",
-    "next": "12.3.4",
+    "next": "13.5.3",
     "notistack": "2.0.8",
     "react": "18.2.0",
     "react-dom": "18.2.0",
