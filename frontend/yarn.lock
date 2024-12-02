@@ -300,14 +300,14 @@
   integrity sha512-6SWlXpWU5AvId8Ac7zjzmIOqMOba/JWY8XZ4A7q7Gn1Vlfg/SFFIlrtHXt9nPn4op9ZPAkl91Jao+QQv3r/ukw==
 
 "@fontsource/archivo-black@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@fontsource/archivo-black/-/archivo-black-5.0.3.tgz#ab4cf70e0672824cdc4af85d8402505900adf036"
-  integrity sha512-UYwdxwITtjlH+LeMt0lxL/24+emg9NPF+fy/i1TOyff74q3FJu2+g17dFHn6FG44OXxdM0iaR0gg5gpRAwiaqQ==
+  version "5.0.14"
+  resolved "https://registry.yarnpkg.com/@fontsource/archivo-black/-/archivo-black-5.0.14.tgz#1e07be7e2b28c1bb57bfc82ab6d61a99dac6bf15"
+  integrity sha512-Us2a/tSPTh5ER3RqhnIM9c2C8PtGz56lSNMKPruk9NtWKoKF6XKPXLxpheOs2OGc4r2FhfdyCb38zn//RCBo0A==
 
 "@humanwhocodes/config-array@^0.11.10":
-  version "0.11.10"
-  resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.10.tgz#5a3ffe32cc9306365fb3fd572596cd602d5e12d2"
-  integrity sha512-KVVjQmNUepDVGXNuoRRdmmEjruj0KfiGSbS8LVc12LMsWDQzRXJ0qdhN8L8uUigKpfEHRhlaQFY0ib1tnUbNeQ==
+  version "0.11.11"
+  resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.11.tgz#88a04c570dbbc7dd943e4712429c3df09bc32844"
+  integrity sha512-N2brEuAadi0CcdeMXUkhbZB84eskAc8MEX1By6qEchoVywSgXPIjou4rYsl0V3Hj0ZnuGycGCjdNgockbzeWNA==
   dependencies:
     "@humanwhocodes/object-schema" "^1.2.1"
     debug "^4.1.1"
